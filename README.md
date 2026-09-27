@@ -109,7 +109,7 @@ python src/regression_assignment.py
 
 The program loads the dataset, trains the models, prints the model comparison, and writes the CSV result files and plots to `results/`.
 
-The notebook can be opened and executed from top to bottom in Jupyter or Google Colab. When using Colab, upload the notebook and run the cells in order.
+The notebook can be opened and executed from top to bottom in Jupyter or Google Colab. Open the notebook directly in [Google Colab](https://colab.research.google.com/drive/1zShdNaoa62i2cDxKchCgthZOL54E1pzj#scrollTo=93-hT1V24cKi), then run the cells in order.
 
 ## 10. Results
 
